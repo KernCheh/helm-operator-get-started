@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: kerncheh/podinfo:dev-sz1n6qtv
+    image: kerncheh/podinfo:dev-47aufp8j
     replicaCount: 1
     hpa:
       enabled: false
